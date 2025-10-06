@@ -67,7 +67,7 @@ Key Insights:
 * Average duration analysis
 * Text analysis using WordClouds for descriptions
 
-> Tools Used: **Pandas, NumPy, Matplotlib, Seaborn, WordCloud**
+> Tools Used: **Pandas, NumPy, Matplotlib, Seaborn**
 
 ---
 
