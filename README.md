@@ -137,7 +137,9 @@ By clustering Netflix titles, we can better understand content patterns, viewer 
 **Mangal Singh**
 🎓 B.Tech CSE | Data Science Enthusiast
 📊 Focused on Data Analysis, ML, and Visualization
-🌐 [GitHub](https://github.com/mangal-singh001) • [LinkedIn](https://www.linkedin.com/in/mangal-singh001)
+
+🌐 [GitHub](https://github.com/mangal-singh001) 
+• [LinkedIn](https://www.linkedin.com/in/mangal-singh001)
 
 ---
 
