@@ -1,7 +1,3 @@
-Perfect 👌 — now that I can see your **actual repo structure**, here’s the corrected and finalized **README.md** (100% matching your GitHub layout).
-
----
-
 # 🎬 Netflix ML Project – Exploratory Data Analysis & Clustering
 
 <p align="center">
@@ -151,4 +147,4 @@ If you found this project useful, don’t forget to ⭐ **star this repository**
 
 ---
 
-Would you like me to **add GitHub badges (for Python, Jupyter, Scikit-learn, etc.)** and a small **preview image section** (for charts or PCA plots) to make the README look more professional on your GitHub profile?
+
