@@ -83,6 +83,7 @@ Key Insights:
 4. Applied **K-Means Clustering**
 5. Visualized clusters using **PCA (Principal Component Analysis)**
 
+
 **Results:**
 
 * Found 5 major clusters representing categories like:
